@@ -1,0 +1,7 @@
+[package]
+name = "clippy-toml-bug"
+version = "0.1.0"
+authors = ["Johan Lorenzo <jlorenzo@mozilla.com>"]
+
+[dependencies]
+clippy = "0.0.65"
